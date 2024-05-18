@@ -1,0 +1,58 @@
+[
+    {
+        "id"        : 1,
+        "nama"      : "World Imagery",
+        "url"       : "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "esri_imagery.png"
+    },
+    {
+        "id"        : 2,
+        "nama"      : "Nat Geo",
+        "url"       : "https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "esri_natGeo.png"
+    },
+    {
+        "id"        : 3,
+        "nama"      : "Topografi",
+        "url"       : "https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "esri_topo.png"
+    },
+    {
+        "id"        : 4,
+        "nama"      : "Street Map",
+        "url"       : "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "esri_streetmap.png"
+    },
+    {
+        "id"        : 5,
+        "nama"      : "Esri Dark",
+        "url"       : "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "esri_dark.png"
+    },
+    {
+        "id"        : 6,
+        "nama"      : "RBI",
+        "url"       : "https://portal.ina-sdi.or.id/arcgis/rest/services/RBI/Basemap/MapServer",
+        "type"      : "ESRI",
+        "param"     : "",
+        "thumimg"   :  "rbi.png"
+    },
+    {
+        "id"        : 7,
+        "nama"      : "RBI OS",
+        "url"       : "http://palapa.big.go.id:8080/geoserver/gwc/service/wms",
+        "type"      : "OGC",
+        "param"     : "basemap_rbi:basemap",
+        "thumimg"   :  "rbi_os.jpg"
+    }
+]
